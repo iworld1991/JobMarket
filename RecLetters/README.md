@@ -5,8 +5,6 @@
 
 Recommendation Letters Procedures
 
-FAQ
-
 # Information for Students and Staff
 
 <div id="students-and-staff">
@@ -94,6 +92,10 @@ More detailed procedures are below:
 2.  **[`AcademicJobsOnline`](https://academicjobsonline.org)  (<https://academicjobsonline.org>):** Students will enter Luna’s name, with the email address [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu), on the cover sheet provided by the AJO system. Check the box: “must check here if the person above will upload letters on behalf of multiple writers” and enter the actual writers’ names in the box provided. After all reference letters for each student are received, Luna will make 1 PDF file of all letters and upload their file to the AJO site. The student will be allowed to see when this upload is complete. This service will be provided for both JHU Economics and external recommenders.
 
 3.  **[`AEA/JOE`](https://aeaweb.org)  (<https://aeaweb.org>):** Students who are using [`AEA/JOE`](https://aeaweb.org) must ask their JHU Economics Department reference writer to go to <https://aeaweb.org/joe/ref.php>  and set up a surrogate for their reference letters. The surrogate name is Luna Thomas and the email address is [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu).
+
+    <div id="students-interfolio">
+
+    </div>
 
 4.  **[`Interfolio`](https://www.interfolio.com)  (<https://www.interfolio.com>):** Before using the Interfolio System, students must wait for an email from Luna indicating that she has received *all* your letters of recommendation. Luna will tell you if you have multiple letters of recommendation from a specific faculty member as well as the type of recommendation (for example: Generic, Academic, or Non-Academic). *Do not proceed* with the recommendation requests if you don’t know the type of recommendation letter you are getting from each specific faculty member.
 
