@@ -25,7 +25,7 @@ This document defines terms and notation used in the other job market documents.
 |                                                                       |     | responsible for handling recommendations and other                                                                              |
 |                                                                       |     | administrative matters                                                                                                          |
 |                                                                       |     | [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu)<span id="JMPO"></span>                                              |
-|                                 JMPO                                  | \-  | Job Market Placement Officeris the faculty member                                                                               |
+|                                 JMPO                                  | \-  | **Job Market Placement Officer**is the faculty member                                                                           |
 |                                                                       |     | coordinating the overall placement process                                                                                      |
 |                                                                       |     | [`placement.jhuecon@gmail.com`](mailto:placement.jhuecon@gmail.com)<span id="JOE"></span>                                       |
 |                  [`JOE`](https://www.aeaweb.org/joe)                  | \-  | Job Openings for Economists                                                                                                     |
