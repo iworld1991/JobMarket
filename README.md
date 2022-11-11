@@ -4,6 +4,8 @@
 
 -   [Definitions of terms and shortcuts used in docs provided here](https://llorracc.github.io/JobMarket/Notation)
 
+-   [Detailed instructions for each step in the process](https://llorracc.github.io/JobMarket/Steps)
+
 -   [Templates for various documents you will want to create](https://github.com/llorracc/JobMarket/blob/main/Templates)
 
 -   [All about your Recommendation Letters](https://llorracc.github.io/JobMarket/RecLetters)
