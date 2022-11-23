@@ -91,7 +91,7 @@ More detailed procedures are below:
 
 2.  **[`AcademicJobsOnline`](https://academicjobsonline.org)  (<https://academicjobsonline.org>):** Students will enter Luna’s name, with the email address [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu), on the cover sheet provided by the AJO system. Check the box: “must check here if the person above will upload letters on behalf of multiple writers” and enter the actual writers’ names in the box provided. After all reference letters for each student are received, Luna will make 1 PDF file of all letters and upload their file to the AJO site. The student will be allowed to see when this upload is complete. This service will be provided for both JHU Economics and external recommenders.
 
-3.  **[`AEA/JOE`](https://aeaweb.org)  (<https://aeaweb.org>):** Students who are using [`AEA/JOE`](https://aeaweb.org) must ask their JHU Economics Department reference writer to go to <https://aeaweb.org/joe/ref.php>  and set up a surrogate for their reference letters. The surrogate name is Luna Thomas and the email address is [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu).
+3.  **[`AEA/JOE`](https://aeaweb.org)  (<https://aeaweb.org>):** Students who are using [`AEA/JOE`](https://aeaweb.org) must ask their JHU Economics Department reference writer to go to <https://aeaweb.org/letter_writer>  and set up a surrogate for their reference letters. The surrogate name is Luna Thomas and the email address is [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu).
 
     <div id="students-interfolio">
 
@@ -175,7 +175,13 @@ Most of what the staff will do for recommendation letters is implicit in the pre
 
 </div>
 
-1.  **[`EJM`](https://econjobmarket.org):** Each JHU faculty member sending a recommendation letter will need to have an account at [`EJM`](https://econjobmarket.org)  (<https://econjobmarket.org>). Your account is first established by the STUDENT who first requests a letter from you. That student must provide to [`EJM`](https://econjobmarket.org) a valid `@jhu.edu` email address for you. Personal email addresses like those from `gmail` or `yahoo` are now prohibited by [`EJM`](https://econjobmarket.org)  for security reasons.
+1.  **[AEA](https://aeaweb.org)**: You presumably already have an <https://aeaweb.org/letter_writer> account tied to your JHU email address. (If not, you will need one).
+
+    You will need to go to the <https://aeaweb.org/letter_writer>and click under “Settings” (or maybe “Preferences”) to get to the place where you can register a surrogate, which should of course be [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu).
+
+    The student will select you as a writer by using the email address under which you are registered on <https://aeaweb.org>.
+
+2.  **[`EJM`](https://econjobmarket.org):** Each JHU faculty member sending a recommendation letter will need to have an account at [`EJM`](https://econjobmarket.org)  (<https://econjobmarket.org>). Your account is first established by the STUDENT who first requests a letter from you. That student must provide to [`EJM`](https://econjobmarket.org) a valid `@jhu.edu` email address for you. Personal email addresses like those from `gmail` or `yahoo` are now prohibited by [`EJM`](https://econjobmarket.org)  for security reasons.
 
     If you are not yet registered on [`EJM`](https://econjobmarket.org) and a student provides [`EJM`](https://econjobmarket.org) with a valid JHU email address for you inside [`EJM`](https://econjobmarket.org), that will become your unique [`EJM`](https://econjobmarket.org) email address.
 
@@ -185,9 +191,9 @@ Most of what the staff will do for recommendation letters is implicit in the pre
 
     The proxy is Luna Thomas; the email address to use for the proxy is [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu). The good thing about using a proxy is that you (as a faculty member) need only to send your letters out once, to [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu), and everything else is handled for you after that.
 
-2.  **[`AEA/JOE`](https://aeaweb.org):** Each faculty member must register at <https://aeaweb.org/joe/ref.php>. After you create an account, you will have to designate Luna as a surrogate to manage your reference letters. The surrogate name is LunaThomas and the email address is [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu). The faculty need to set Luna Thomas as their proxy each year, as this system does not carry their proxies over from year to year.
+3.  **[`AEA/JOE`](https://aeaweb.org):** Each faculty member must register at <https://aeaweb.org/letter_writer>. After you create an account, you will have to designate Luna as a surrogate to manage your reference letters. The surrogate name is LunaThomas and the email address is [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu). The faculty need to set Luna Thomas as their proxy each year, as this system does not carry their proxies over from year to year.
 
-3.  **[`AcademicJobsOnline`](https://academicjobsonline.org)** and [`Interfolio`](https://www.interfolio.com): Each faculty member should email their reference letters to Luna at [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu). Please follow the file naming convention outlined below. This service will be provided for both JHU Economics and external recommenders.
+4.  **[`AcademicJobsOnline`](https://academicjobsonline.org)** and [`Interfolio`](https://www.interfolio.com): Each faculty member should email their reference letters to Luna at [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu). Please follow the file naming convention outlined below. This service will be provided for both JHU Economics and external recommenders.
 
 N.B.: When you send your letters to [`jmstaff-jhuecon@jhu.edu`](mailto:jmstaff-jhuecon@jhu.edu), please use self-explanatory names, like `CarrollCD-For-WhiteMN-Academic.pdf`, or `CarrollCD-For-WhiteMN-NonAcademic.pdf`, or, if the same letter is to be sent both to academic and to nonacademic employers, `CarrollCD-For-WhiteMN-Generic.pdf`.
 
