@@ -3,7 +3,7 @@
 
 </div>
 
-Notation and Terminology for the Job Market
+# Notation and Terminology for the Job Market
 
 This document defines terms and notation used in the other job market documents.
 
