@@ -3,7 +3,7 @@
 
 </div>
 
-# Frequently Asked Questions About the Job Market Process
+# 
 
 1.  Who is in charge of the job market process?
 
@@ -13,7 +13,11 @@
 
 2.  Who is eligible to go on the market?
 
-    > Students who (1) have the approval of their advisors (you need to make sure that you consult with ALL faculty members whom you will ask to write letters, not just your primary advisor – ALL the advisors should be reminded(=pestered) to come to your practice job market talk); and (2) who either have not participated in the job market process before, or participated but did not find a job (this is meant to reassure you, not to worry you; we have a very good record of students ultimately getting jobs).
+    > Students who
+    >
+    > 1.  have the approval of their advisors (you need to consult with ALL faculty members whom you will ask to write letters, not just your primary advisor; and
+    >
+    > 2.  either have not participated in the job market process before, or participated but did not find a job (this is meant to reassure you, not to worry you; we have a very good record of students ultimately getting jobs).
     >
     > <div id="DecideByWhen">
     >
@@ -23,7 +27,15 @@
 
     > If you are a 6th year student this year, you don’t have a choice: If you have an acceptable job market paper in time, you must go on the market; if you don’t have an acceptable job market paper in time, you are in deep trouble, since the department must approve your job market paper, you can’t go on the market without a paper; and you can’t stay in the program for a 7th year. (See the graduate [handbook](http://www.econ2.jhu.edu/pdf/Econ_Grad_Handbook.pdf) for a fuller discussion of these issues.)
     >
-    > For other students (5th, or in very special cases maybe 4th year students), basically you should be talking to your advisors (ALL of them, not just your main advisor) to make a final decision by the end of the last week of September. It is costly to you and to us for you to withdraw after the job candidate website ‘goes public’ in early-October. It is even costlier to withdraw after you send out applications to employers in early-to-mid November. Anyone who attempts to withdraw after mid-December will be shot.
+    > For other students (who would be in their 5th year, or very rarely 4th year):
+    >
+    > 1.  You need to make a preliminary decision in late March or early April
+    >
+    >     -   You need approval of your principal advisor
+    >
+    >     -   You need to consult your other letter writers
+    >
+    > 2.  You should make a final decision by July 1.
 
 4.  It’s before late September, and I’m not sure whether I’ll be on the market or not which steps should I take (e.g. should I schedule a job seminar)?
 
